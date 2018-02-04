@@ -2,7 +2,7 @@
 
 -<widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" version="1.0.0" id="com.phonegap.helloworld">
 
-<name>helloWorld2</name>
+<name>Log1</name>
 
 <description> Hello World sample application that responds to the deviceready event. </description>
 

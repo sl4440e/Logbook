@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
--<widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" version="1.0.0" id="com.phonegap.helloworld">
+-<widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" version="1.0.0" id="com.phonegap.Log1">
 
 <name>Log1</name>
 

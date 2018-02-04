@@ -1,0 +1,20 @@
+[01:44, 2/4/2018] +44 7889 564623: <?xml version="1.0" encoding="UTF-8"?>
+
+-<widget version="1.0.0" versionCode="10" id="com.phonegap.example" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">
+
+<!-- versionCode is optional and Android only -->
+
+
+<name>PhoneGap Logbook 1</name>
+
+<description> Logbook </description>
+
+<author email="support@phonegap.com" href="https://build.phonegap.com"> Steven </author>
+
+<plugin spec="https://github.com/apache/cordova-plugin-dialogs"/>
+
+<plugin spec="https://github.com/apache/cordova-plugin-inappbrowser"/>
+
+<plugin spec="https://github.com/apache/cordova-plugin-vibration"/>
+
+</widget>
